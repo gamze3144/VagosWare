@@ -1,0 +1,8 @@
+1. Python3.8'i https://python.org/downloads adresinden yükleyin.
+2. ZIP dosyasını github'dan indirin.
+3. ZIP'i paketinden çıkarın.
+4. installer.py'yi çalıştırın (tercihen yönetici olarak).
+5. CSGO'yu çalıştırın // Bir maça girin
+6. ProjectX_V2.py'yi çalıştırın (tercihen yönetici olarak).
+7. Ayarınızı seçin ve ardından güncelleme düğmesine tıklayın!
+8. Eğlenin ve github'a yıldız katın!
